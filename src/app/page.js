@@ -45,7 +45,7 @@ export default function Home() {
     };
 
     type();
-  }, []);
+  }, [words]);
 
   return (
     <div className="bg-[#0d1117] text-[#c9d1d9] font-sans min-h-screen">
