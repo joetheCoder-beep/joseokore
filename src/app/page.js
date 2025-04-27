@@ -77,7 +77,7 @@ export default function Home() {
       <section className="h-[80vh] flex flex-col items-center justify-center px-4 text-center bg-gradient-to-br from-[#0d1117] to-[#161b22]">
         <h2 className="text-4xl md:text-6xl font-extrabold mb-6 animate-pulse">{text}<span className="text-[#58a6ff]">|</span></h2>
         <p className="text-xl text-[#8b949e] max-w-xl">
-          Welcome to my digital playground where code meets creativity. Let&aposs build something amazing together.
+          Welcome to my digital playground where code meets creativity. Let&apos;s build something amazing together.
           Explore my projects, learn about my journey, and feel free to connect.
         </p>
       </section>
@@ -86,7 +86,7 @@ export default function Home() {
       <section id="about" className="py-16 px-6 max-w-4xl mx-auto">
         <h2 className="text-3xl font-bold mb-4 border-b border-[#30363d] pb-2">About Me</h2>
         <p className="text-lg leading-relaxed">
-          I&aposm a passionate software developer with a knack for clean UI and robust backend logic.
+          I&apos;m a passionate software developer with a knack for clean UI and robust backend logic.
           I studied Computer Science at Maseno University and love crafting user-centric digital experiences.
           I thrive in environments that challenge my creativity and push me to learn continuously.
           My interests span across front-end development, backend services, and everything in between.
